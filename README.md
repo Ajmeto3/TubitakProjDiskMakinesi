@@ -1,2 +1,3 @@
-# TubitakProjDiskMakinesi
-# Bu projenin çalışabilmesi için eğer mobil kullanıcı iseniz python mobil editör eğer bilgisayarda iseniz microsoft store'dan python 3.9 indirerek çalıştırabilirsiniz.
+# Tubitak Projesi Diskriminant Makinesi
+# Bu projenin çalışabilmesi için mobil kullanıcı iseniz python mobil editör eğer bilgisayarda iseniz Microsoft Store kullanarak python 3.9 indirerek çalıştırabilirsiniz.
+# Dosyayı ZIP paketinden çıkarmayı unutmayın
