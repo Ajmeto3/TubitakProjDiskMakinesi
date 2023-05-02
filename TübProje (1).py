@@ -124,6 +124,7 @@ elif islem == "ÇA":
                   real_part, "-", imaginary_part, "i")
         else:
             print("Kökler sadeleştirelemeyecek kadar büyük veya komplike.")
+input("Program bitti. Çıkmak için Enter tuşuna basın...")
 
 
 # In[ ]:
